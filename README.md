@@ -1,6 +1,9 @@
 # Twitter-Sentiment-Markov-Models
 Using Markov models to classify sentiment for Covid-19 tweets.
-##
+###
+This is just a `First-order` markov model, performance can be improved by increasing the order of markov models.
+
+### Performance metrics
 
 | Metrics | `Training` | `Validation` |
 | --- | --- | --- |
