@@ -1,6 +1,8 @@
 # Twitter-Sentiment-Markov-Models
 Using Markov models to detect sentiment for Covid-19 tweets.
 ###
+First-order seems to be working well for this data.
+###
 `First-order` markov model
 #### Performance metrics
 
